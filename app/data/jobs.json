@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "company": "TechCorp",
+    "title": "Frontend Developer",
+    "description": "We are seeking a skilled Frontend Developer to join our team. The ideal candidate will have strong experience with React, JavaScript, and CSS. You will be responsible for building user-friendly web applications and collaborating with our design and backend teams.",
+    "education": "Bachelor's Degree",
+    "skills": ["React", "JavaScript", "CSS", "HTML5", "Redux"],
+    "industry": "Technology",
+    "jobType": "Full-time",
+    "payRate": "$80,000 - $120,000",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": 2,
+    "company": "HealthCare Inc.",
+    "title": "Data Analyst",
+    "description": "We're looking for a Data Analyst to help us make sense of our healthcare data. The ideal candidate will have experience with Python, SQL, and data visualization tools. You'll be working on projects that directly impact patient care and operational efficiency.",
+    "education": "Master's Degree",
+    "skills": ["Python", "SQL", "Data Visualization", "Statistics", "Machine Learning"],
+    "industry": "Healthcare",
+    "jobType": "Contract",
+    "payRate": "$50 - $70 per hour",
+    "location": "New York, NY"
+  },
+  {
+    "id": 3,
+    "company": "EcoSolutions",
+    "title": "Environmental Engineer",
+    "description": "Join our team of environmental experts! We need an Environmental Engineer to work on sustainability projects. You'll be conducting environmental impact assessments, using AutoCAD for designs, and managing eco-friendly initiatives.",
+    "education": "Bachelor's Degree",
+    "skills": ["Environmental Impact Assessment", "AutoCAD", "Project Management", "Sustainability", "Waste Management"],
+    "industry": "Environmental",
+    "jobType": "Part-time",
+    "payRate": "$60,000 - $80,000",
+    "location": "Seattle, WA"
+  },
+  {
+    "id": 4,
+    "company": "AI Innovations",
+    "title": "Machine Learning Engineer",
+    "description": "We are at the forefront of AI technology and need a talented Machine Learning Engineer. You'll be developing and implementing ML models, working with big data, and collaborating with our research team on cutting-edge AI projects.",
+    "education": "Master's Degree or PhD",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "Natural Language Processing"],
+    "industry": "Artificial Intelligence",
+    "jobType": "Full-time",
+    "payRate": "$120,000 - $180,000",
+    "location": "Boston, MA"
+  },
+  {
+    "id": 5,
+    "company": "FinTech Solutions",
+    "title": "Blockchain Developer",
+    "description": "Join our innovative FinTech company as a Blockchain Developer. You'll be working on developing and maintaining blockchain-based applications, smart contracts, and decentralized systems. Strong cryptography skills are a must.",
+    "education": "Bachelor's Degree",
+    "skills": ["Blockchain", "Solidity", "Ethereum", "Smart Contracts", "Cryptography"],
+    "industry": "Finance",
+    "jobType": "Full-time",
+    "payRate": "$100,000 - $150,000",
+    "location": "Miami, FL"
+  }
+]
+
